@@ -11,7 +11,7 @@ Following  are the routes for each api oprations
 
 ### Register The user
 
-- domain-name/api/register 
+- **Route:-** domain-name/api/register 
 
 **Mehod** :- post
 
@@ -23,7 +23,7 @@ Following  are the routes for each api oprations
     
 ### Login The User
 
-- domain-name/api/login
+- **Route:-** domain-name/api/login
 
 **Mehod** :- post
 
@@ -34,13 +34,13 @@ Following  are the routes for each api oprations
     
 ### Get profile information
 
-- domain-name/api/profile
+- **Route:-** domain-name/api/profile
     
 **Mehod** :- get
     
 ### Logout the user
 
-- domain-name/api/logout   
+- **Route:-** domain-name/api/logout   
 **Mehod** :- post
     
  
