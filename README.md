@@ -5,11 +5,7 @@ This sample api project lets register an user, login the user, get profile infor
 - Tested using postman api Platform.
 
 
-
-## Api Routes
-Following  are the routes for each api oprations
-
-### Register The user
+## 1. Register The user
 
 - **Route:-** domain-name/api/register 
 
@@ -21,7 +17,7 @@ Following  are the routes for each api oprations
 - password
 - password_confirmation
     
-### Login The User
+## 2. Login The User
 
 - **Route:-** domain-name/api/login
 
@@ -32,13 +28,13 @@ Following  are the routes for each api oprations
 - password
     
     
-### Get profile information
+## 3. Get profile information
 
 - **Route:-** domain-name/api/profile
     
 **Mehod** :- get
     
-### Logout the user
+## 4. Logout the user
 
 - **Route:-** domain-name/api/logout   
 **Mehod** :- post
