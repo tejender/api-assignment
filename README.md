@@ -9,23 +9,23 @@ This sample api project lets register an user, login the user, get profile infor
 
 - **Route:-** domain-name/api/register 
 
-**Mehod** :- post
+- **Mehod** :- post
 
-**Fields**
-- name
-- email
-- password
-- password_confirmation
+- **Fields**
+    - name
+    - email
+    - password
+    - password_confirmation
     
 ## 2. Login The User
 
 - **Route:-** domain-name/api/login
 
-**Mehod** :- post
+- **Mehod** :- post
 
-**Fields**       
-- email
-- password
+- **Fields**       
+    - email
+    - password
     
     
 ## 3. Get profile information
