@@ -12,12 +12,12 @@ Following  are the routes for each api oprations
 ### Register The user
 
 - <domain-name>/api/register 
-    ** Mehod ** :- post
-    ** Fields **
-        - name
-        - email
-        - password
-        - password_confirmation
+**Mehod** :- post
+**Fields**
+- name
+- email
+- password
+- password_confirmation
     
 ### Login The User
 
