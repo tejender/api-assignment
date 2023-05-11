@@ -31,13 +31,14 @@ This sample api project lets register an user, login the user, get profile infor
 ## 3. Get profile information
 
 - **Route:-** domain-name/api/profile
-    
-**Mehod** :- get
+-     
+- **Mehod** :- get
     
 ## 4. Logout the user
 
 - **Route:-** domain-name/api/logout   
-**Mehod** :- post
+
+- **Mehod** :- post
     
  
     
